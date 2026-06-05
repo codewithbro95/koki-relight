@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Relighting",
+  "description": "Browser-only AI image relighting application using local WebGPU and Depth estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
